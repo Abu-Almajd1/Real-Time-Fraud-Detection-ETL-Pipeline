@@ -1,0 +1,378 @@
+[2024-12-16T18:31:38.869+0000] {processor.py:157} INFO - Started process (PID=31) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:31:38.870+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:31:38.891+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:31:38.887+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:31:38.919+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:31:38.914+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:31:38.922+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:31:39.064+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.309 seconds
+[2024-12-16T18:32:09.338+0000] {processor.py:157} INFO - Started process (PID=41) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:32:09.339+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:32:09.339+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:32:09.339+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:32:09.342+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:32:09.342+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:32:09.343+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:32:09.353+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.017 seconds
+[2024-12-16T18:33:23.403+0000] {processor.py:157} INFO - Started process (PID=30) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:33:23.406+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:33:23.415+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:33:23.413+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:33:23.424+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:33:23.422+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:33:23.425+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:33:23.471+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.084 seconds
+[2024-12-16T18:33:53.907+0000] {processor.py:157} INFO - Started process (PID=40) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:33:53.907+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:33:53.908+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:33:53.907+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:33:53.910+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:33:53.909+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:33:53.910+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:33:53.919+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.014 seconds
+[2024-12-16T18:34:24.474+0000] {processor.py:157} INFO - Started process (PID=50) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:34:24.475+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:34:24.475+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:34:24.475+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:34:24.477+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:34:24.477+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:34:24.477+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:34:24.486+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.014 seconds
+[2024-12-16T18:34:55.225+0000] {processor.py:157} INFO - Started process (PID=60) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:34:55.226+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:34:55.226+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:34:55.226+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:34:55.228+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:34:55.228+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:34:55.229+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:34:55.239+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.016 seconds
+[2024-12-16T18:35:25.944+0000] {processor.py:157} INFO - Started process (PID=70) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:35:25.945+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:35:25.945+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:35:25.945+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:35:25.947+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:35:25.946+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:35:25.947+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:35:25.956+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.015 seconds
+[2024-12-16T18:35:56.710+0000] {processor.py:157} INFO - Started process (PID=80) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:35:56.711+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:35:56.711+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:35:56.711+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:35:56.713+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:35:56.713+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:35:56.714+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:35:56.722+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.014 seconds
+[2024-12-16T18:36:27.587+0000] {processor.py:157} INFO - Started process (PID=90) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:36:27.588+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:36:27.588+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:36:27.588+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:36:27.591+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:36:27.590+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:36:27.591+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:36:27.600+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.014 seconds
+[2024-12-16T18:36:58.300+0000] {processor.py:157} INFO - Started process (PID=100) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:36:58.300+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:36:58.301+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:36:58.301+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:36:58.303+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:36:58.303+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:36:58.304+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:36:58.313+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.015 seconds
+[2024-12-16T18:37:29.099+0000] {processor.py:157} INFO - Started process (PID=110) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:37:29.100+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:37:29.100+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:37:29.100+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:37:29.103+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:37:29.102+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:37:29.103+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:37:29.113+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.016 seconds
+[2024-12-16T18:38:00.145+0000] {processor.py:157} INFO - Started process (PID=120) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:38:00.146+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:38:00.147+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:38:00.147+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:38:00.151+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:38:00.151+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:38:00.152+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:38:00.164+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.021 seconds
+[2024-12-16T18:38:30.995+0000] {processor.py:157} INFO - Started process (PID=130) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:38:30.996+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:38:30.996+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:38:30.996+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:38:30.999+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:38:30.998+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:38:30.999+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:38:31.008+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.014 seconds
+[2024-12-16T18:39:01.780+0000] {processor.py:157} INFO - Started process (PID=140) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:39:01.781+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:39:01.781+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:39:01.781+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:39:01.784+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:39:01.783+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:39:01.784+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:39:01.795+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.016 seconds
+[2024-12-16T18:39:32.556+0000] {processor.py:157} INFO - Started process (PID=150) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:39:32.557+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:39:32.557+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:39:32.557+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:39:32.559+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:39:32.559+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:39:32.560+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:39:32.569+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.014 seconds
+[2024-12-16T18:40:03.303+0000] {processor.py:157} INFO - Started process (PID=160) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:40:03.304+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:40:03.304+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:40:03.304+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:40:03.307+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:40:03.306+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:40:03.307+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:40:03.316+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.014 seconds
+[2024-12-16T18:43:35.290+0000] {processor.py:157} INFO - Started process (PID=31) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:43:35.290+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:43:35.291+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:43:35.291+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:43:35.307+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:43:35.299+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:43:35.309+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:43:35.352+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.066 seconds
+[2024-12-16T18:44:05.679+0000] {processor.py:157} INFO - Started process (PID=41) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:44:05.680+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:44:05.681+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:44:05.680+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:44:05.683+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:44:05.683+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:44:05.683+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:44:05.694+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.016 seconds
+[2024-12-16T18:44:36.282+0000] {processor.py:157} INFO - Started process (PID=51) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:44:36.282+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:44:36.286+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:44:36.286+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:44:36.289+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:44:36.288+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:44:36.291+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:44:36.300+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.019 seconds
+[2024-12-16T18:45:53.725+0000] {processor.py:157} INFO - Started process (PID=31) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:45:53.727+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:45:53.728+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:45:53.727+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:45:53.741+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:45:53.734+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:45:53.741+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:45:53.803+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.085 seconds
+[2024-12-16T18:46:35.826+0000] {processor.py:157} INFO - Started process (PID=31) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:46:35.828+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:46:35.829+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:46:35.829+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:46:35.839+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:46:35.837+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:46:35.841+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:46:35.864+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.044 seconds
+[2024-12-16T18:47:06.076+0000] {processor.py:157} INFO - Started process (PID=41) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:47:06.077+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:47:06.077+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:47:06.077+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:47:06.079+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:47:06.079+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:47:06.080+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:47:06.088+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.014 seconds
+[2024-12-16T18:47:36.722+0000] {processor.py:157} INFO - Started process (PID=51) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:47:36.723+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:47:36.724+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:47:36.724+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:47:36.727+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:47:36.726+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:47:36.727+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:47:36.738+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.018 seconds
+[2024-12-16T18:48:07.707+0000] {processor.py:157} INFO - Started process (PID=61) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:48:07.708+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:48:07.708+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:48:07.708+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:48:07.711+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:48:07.710+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:48:07.711+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:48:07.720+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.014 seconds
+[2024-12-16T18:48:38.453+0000] {processor.py:157} INFO - Started process (PID=71) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:48:38.454+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:48:38.454+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:48:38.454+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:48:38.456+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:48:38.456+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:48:38.457+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:48:38.467+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.015 seconds
+[2024-12-16T18:49:08.984+0000] {processor.py:157} INFO - Started process (PID=81) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:49:08.985+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:49:08.985+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:49:08.985+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:49:08.988+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:49:08.988+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:49:08.989+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:49:09.003+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.021 seconds
+[2024-12-16T18:49:39.975+0000] {processor.py:157} INFO - Started process (PID=91) to work on /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:49:39.975+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/kafka_streaming.py for tasks to queue
+[2024-12-16T18:49:39.975+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:49:39.975+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:49:39.979+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:49:39.978+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/scripts/kafka_streaming.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/scripts/kafka_streaming.py", line 1, in <module>
+    from confluent_kafka import Producer
+ModuleNotFoundError: No module named 'confluent_kafka'
+[2024-12-16T18:49:39.979+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/kafka_streaming.py
+[2024-12-16T18:49:39.989+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/kafka_streaming.py took 0.016 seconds

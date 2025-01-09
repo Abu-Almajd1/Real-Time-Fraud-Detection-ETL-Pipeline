@@ -1,0 +1,135 @@
+[2024-12-16T18:31:39.605+0000] {processor.py:157} INFO - Started process (PID=34) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:31:39.610+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:31:39.612+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:31:39.612+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:31:39.879+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:31:39.890+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.293 seconds
+[2024-12-16T18:32:10.384+0000] {processor.py:157} INFO - Started process (PID=44) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:32:10.387+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:32:10.387+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:32:10.387+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:32:10.512+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:32:10.528+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.147 seconds
+[2024-12-16T18:33:23.621+0000] {processor.py:157} INFO - Started process (PID=33) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:33:23.624+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:33:23.625+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:33:23.625+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:33:24.239+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:33:24.266+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.651 seconds
+[2024-12-16T18:33:54.947+0000] {processor.py:157} INFO - Started process (PID=43) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:33:54.948+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:33:54.949+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:33:54.949+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:33:55.052+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:33:55.067+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.123 seconds
+[2024-12-16T18:34:25.529+0000] {processor.py:157} INFO - Started process (PID=53) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:34:25.532+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:34:25.533+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:34:25.533+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:34:25.837+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:34:25.852+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.328 seconds
+[2024-12-16T18:34:56.284+0000] {processor.py:157} INFO - Started process (PID=63) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:34:56.289+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:34:56.290+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:34:56.290+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:34:56.533+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:34:56.546+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.265 seconds
+[2024-12-16T18:35:26.994+0000] {processor.py:157} INFO - Started process (PID=73) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:35:26.995+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:35:26.997+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:35:26.997+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:35:27.238+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:35:27.248+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.259 seconds
+[2024-12-16T18:35:57.764+0000] {processor.py:157} INFO - Started process (PID=83) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:35:57.765+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:35:57.766+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:35:57.766+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:35:58.100+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:35:58.116+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.356 seconds
+[2024-12-16T18:36:28.633+0000] {processor.py:157} INFO - Started process (PID=93) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:36:28.634+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:36:28.635+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:36:28.634+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:36:28.873+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:36:28.884+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.254 seconds
+[2024-12-16T18:36:59.359+0000] {processor.py:157} INFO - Started process (PID=103) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:36:59.361+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:36:59.362+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:36:59.362+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:36:59.618+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:36:59.630+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.275 seconds
+[2024-12-16T18:37:30.144+0000] {processor.py:157} INFO - Started process (PID=113) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:37:30.145+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:37:30.146+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:37:30.146+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:37:30.453+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:37:30.478+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.336 seconds
+[2024-12-16T18:38:01.221+0000] {processor.py:157} INFO - Started process (PID=123) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:38:01.225+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:38:01.226+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:38:01.226+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:38:01.461+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:38:01.481+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.270 seconds
+[2024-12-16T18:38:32.048+0000] {processor.py:157} INFO - Started process (PID=133) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:38:32.049+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:38:32.050+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:38:32.050+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:38:32.274+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:38:32.285+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.241 seconds
+[2024-12-16T18:39:02.836+0000] {processor.py:157} INFO - Started process (PID=143) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:39:02.837+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:39:02.839+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:39:02.839+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:39:03.078+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:39:03.089+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.256 seconds
+[2024-12-16T18:39:33.611+0000] {processor.py:157} INFO - Started process (PID=153) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:39:33.613+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:39:33.614+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:39:33.614+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:39:33.831+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:39:33.842+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.235 seconds
+[2024-12-16T18:40:04.365+0000] {processor.py:157} INFO - Started process (PID=163) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:40:04.371+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:40:04.372+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:40:04.372+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:40:04.581+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:40:04.592+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.231 seconds
+[2024-12-16T18:43:35.457+0000] {processor.py:157} INFO - Started process (PID=34) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:43:35.463+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:43:35.469+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:43:35.465+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:43:35.930+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:43:35.972+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.522 seconds
+[2024-12-16T18:44:06.727+0000] {processor.py:157} INFO - Started process (PID=44) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:44:06.727+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:44:06.728+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:44:06.728+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:44:06.819+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:44:06.835+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.110 seconds
+[2024-12-16T18:44:37.327+0000] {processor.py:157} INFO - Started process (PID=54) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:44:37.328+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:44:37.329+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:44:37.329+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:44:37.634+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:44:37.658+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.334 seconds
+[2024-12-16T18:45:54.065+0000] {processor.py:157} INFO - Started process (PID=34) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:45:54.078+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:45:54.082+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:45:54.082+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:45:54.571+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:45:54.617+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.570 seconds
+[2024-12-16T18:46:35.977+0000] {processor.py:157} INFO - Started process (PID=34) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:46:35.981+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:46:35.982+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:46:35.982+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:46:36.500+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:46:36.565+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.598 seconds
+[2024-12-16T18:47:07.118+0000] {processor.py:157} INFO - Started process (PID=44) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:47:07.121+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:47:07.122+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:47:07.122+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:47:07.195+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:47:07.208+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.091 seconds
+[2024-12-16T18:47:37.781+0000] {processor.py:157} INFO - Started process (PID=54) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:47:37.782+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:47:37.784+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:47:37.783+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:47:38.208+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:47:38.233+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.455 seconds
+[2024-12-16T18:48:08.767+0000] {processor.py:157} INFO - Started process (PID=64) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:48:08.768+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:48:08.770+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:48:08.769+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:48:08.990+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:48:09.003+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.239 seconds
+[2024-12-16T18:48:39.517+0000] {processor.py:157} INFO - Started process (PID=74) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:48:39.519+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:48:39.520+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:48:39.519+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:48:39.890+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:48:39.914+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.401 seconds
+[2024-12-16T18:49:10.037+0000] {processor.py:157} INFO - Started process (PID=84) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:49:10.038+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:49:10.039+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:49:10.039+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:49:10.420+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:49:10.439+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.405 seconds
+[2024-12-16T18:49:41.023+0000] {processor.py:157} INFO - Started process (PID=94) to work on /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:49:41.024+0000] {processor.py:826} INFO - Processing file /opt/airflow/dags/scripts/google_pub_sub_publish.py for tasks to queue
+[2024-12-16T18:49:41.024+0000] {logging_mixin.py:150} INFO - [2024-12-16T18:49:41.024+0000] {dagbag.py:541} INFO - Filling up the DagBag from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:49:41.280+0000] {processor.py:838} WARNING - No viable dags retrieved from /opt/airflow/dags/scripts/google_pub_sub_publish.py
+[2024-12-16T18:49:41.292+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/scripts/google_pub_sub_publish.py took 0.273 seconds
